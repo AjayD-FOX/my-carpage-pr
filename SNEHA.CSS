@@ -1,0 +1,107 @@
+*{
+    cursor: pointer;
+}
+
+nav{
+    background-color: BLACK;
+    color: WHITE;
+    padding: 20PX;
+}
+H1,UL,li{
+    display: inline;
+    cursor: pointer;
+}
+.zero
+{margin-left: 65%;
+    cursor: pointer;
+    
+}
+.searchbar{
+    display: block;
+    padding: 50px;
+    text-align: center;
+    
+    
+
+    
+}
+input{
+    width: 700px;
+    padding: 20px;
+    text-align: center;
+}
+
+h1:hover
+{
+color: green;
+}
+.Sample{
+    color: green;
+
+}
+.one{
+    border-color: black;
+    border-width: 4px;
+    border-style: solid;
+    display: inline-block;
+    margin-left: 80px;
+    text-align: center;
+}
+.two{
+    border-color: black;
+    border-width: 4px;
+    border-style: solid;
+    display: inline-block;
+    margin-left: 80px;
+    text-align: center;
+}
+.three{
+    border-color: black;
+    border-width: 4px;
+    border-style: solid;
+    display:inline-block;
+    margin-left: 80px;
+    text-align: center;
+}
+.four{
+    border-color: black;
+    border-width: 4px;
+    border-style: solid;
+    display:inline-block;
+    margin-left: 300px;
+    margin-top: 50px;
+    text-align: center;
+}
+    .five{
+    border-color: black;
+    border-width: 4px;
+    border-style: solid;
+    display:inline-block;
+    margin-left: 100px;
+    margin-top: 50px;
+    text-align: center;
+}
+    .six{
+        padding-top: 50px;
+        text-align: center;
+    }
+    .detail{
+        background-color: black;
+        color: white;
+        text-align: center;
+        padding: 50px;
+        cursor: pointer;
+    }
+    .detail:hover{
+        color: gold;
+    }
+    .seven{
+        display:inline;
+        font-size: larger;
+    }
+    .eight{
+        display: block;
+    }
+    .nine{
+        font-size: larger;
+    }
